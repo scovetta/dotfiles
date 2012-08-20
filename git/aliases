@@ -1,0 +1,3 @@
+alias.lg=log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=short
+alias.logrecent=log --pretty=format:'%Cred%ad%Creset - %C(green)%h%Creset - %s' --date=short --abbrev-commit --since=7.days
+
